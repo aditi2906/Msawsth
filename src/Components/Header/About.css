@@ -1,0 +1,19 @@
+.about{
+    padding: 5%;
+    text-align:justify;
+    margin:10px clamp(30px,400px,20vw);
+  }
+  .about>h1{
+  text-align: center;
+  color: black
+  }
+  .about>p{
+    text-align: center;
+    width: fit-content;
+    color: black
+  }
+  .about>*>a{
+    text-align: center;
+
+    color: black
+  }

@@ -1,0 +1,23 @@
+.container{
+  padding-right:8%;
+  padding-top:5%;
+display:flex;
+flex-direction: row;
+align-items: center;
+flex-wrap:wrap;
+justify-content: space-between;
+}
+
+.head-line >h1{
+ margin-left:4em;
+  width:fit-content;
+  color:black;
+
+}
+.button{
+  margin-left:100px;
+}
+.btn-use{
+  color:white;
+}
+
